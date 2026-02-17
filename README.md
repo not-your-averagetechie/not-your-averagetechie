@@ -13,13 +13,13 @@
   </a>
 </p>
 
-- [cite_start]🚀 **Currently Product Manager @ Forkast (New York, USA - Remote)** [cite: 7, 8]
-- [cite_start]🎓 **Academic Lead:** Heading the AI Department at **DY-PATIL B-SCHOOL**, Pune [cite: 16]
-- 🎯 **GMAT 100%ile | CAT 98.7%ile | [cite_start]B.Tech CS (9.89 CGPA)** [cite: 4]
-- [cite_start]🌐 **Web3 Expert:** Scaled Forkast from 1,000 to **120,000+ users** and drove **$50k+ daily volume** [cite: 9, 12]
-- [cite_start]💡 **Token Architect:** Led a **$3M seed raise** (part of $12M round) and launched multiple NFT/Token projects generating **$500K+ in sales** [cite: 11, 19]
-- [cite_start]🔍 **AI Integration:** Leveraging **LLM-based agents** to streamline UGC and delivering AI training for corporate leadership [cite: 15, 21]
-- 📫 **Email:** sachin11061997@gmail.com | [cite_start]📱 **WhatsApp:** [+91 7057480940](https://wa.me/917057480940) [cite: 1, 2]
+- 🚀 **Currently Product Manager @ Forkast (New York, USA - Remote)** 
+- 🎓 **Academic Lead:** Heading the AI Department at **DY-PATIL B-SCHOOL**, Pune 
+- 🎯 **GMAT 100%ile | CAT 98.7%ile | [cite_start]B.Tech CS (9.89 CGPA)** 
+- 🌐 **Web3 Expert:** Scaled Forkast from 1,000 to **120,000+ users** and drove **$50k+ daily volume** 
+- 💡 **Token Architect:** Led a **$3M seed raise** (part of $12M round) and launched multiple NFT/Token projects generating **$500K+ in sales** 
+- 🔍 **AI Integration:** Leveraging **LLM-based agents** to streamline UGC and delivering AI training for corporate leadership 
+- 📫 **Email:** sachin11061997@gmail.com | [cite_start]📱 **WhatsApp:** [+91 7057480940](https://wa.me/917057480940) 
 
 ---
 
@@ -27,16 +27,16 @@
 
 ### 📈 Prediction Markets & Liquidity Engineering
 Building the infrastructure for the "Information Economy" requires a mix of high-frequency trading logic and decentralized trust.
-- [cite_start]**CLOB & Matching Engines:** Built and optimized a fast Central Limit Order Book (CLOB) matching engine[cite: 9].
-- [cite_start]**Market Operations:** Directing daily operations for 1,000+ active markets, overseeing order book health and ecosystem fund management[cite: 10].
-- [cite_start]**Market Making (AMM):** Expert in CLOB market making and Automated Market Maker (AMM) strategies[cite: 10].
-- [cite_start]**Regulatory Strategy:** Heading the CFTC license division, including security protocols and document preparation[cite: 11].
+- **CLOB & Matching Engines:** Built and optimized a fast Central Limit Order Book (CLOB) matching engine.
+- **Market Operations:** Directing daily operations for 1,000+ active markets, overseeing order book health and ecosystem fund management.
+- **Market Making (AMM):** Expert in CLOB market making and Automated Market Maker (AMM) strategies.
+- **Regulatory Strategy:** Heading the CFTC license division, including security protocols and document preparation.
 
 ### 🤖 AI-Agent Integration in Web3
 The future of Web3 is autonomous. I focus on integrating AI to automate operations and enhance product ecosystems.
-- [cite_start]**LLM-Based Agents:** Architecting LLM-based agents to streamline user-generated content (UGC) flows[cite: 21].
-- [cite_start]**Agentic AI Leadership:** Leading GenAI and Agentic AI curriculum development and corporate training programs[cite: 13, 16].
-- [cite_start]**Product Intelligence:** Drove product development using Mixpanel for KPI tracking and Agile sprints for rapid dApp rollouts[cite: 20, 22].
+- **LLM-Based Agents:** Architecting LLM-based agents to streamline user-generated content (UGC) flows and Handson pactise on designing LLMs.
+- **Agentic AI Leadership:** Leading GenAI and Agentic AI curriculum development and corporate training programs.
+- **Product Intelligence:** Drove product development using Mixpanel for KPI tracking and Agile sprints for rapid dApp rollouts.
 
 ---
 
