@@ -13,18 +13,34 @@
   </a>
 </p>
 
-- [cite_start]🚀 **Currently Product Manager @ Forkast (New York, USA - Remote)** 
-- [cite_start]🎓 **Academic Lead:** Heading the AI Department at **DY-PATIL B-SCHOOL**, Pune 
+- [cite_start]🚀 **Currently Product Manager @ Forkast (New York, USA - Remote)** [cite: 7, 8]
+- [cite_start]🎓 **Academic Lead:** Heading the AI Department at **DY-PATIL B-SCHOOL**, Pune [cite: 16]
 - 🎯 **GMAT 100%ile | CAT 98.7%ile | [cite_start]B.Tech CS (9.89 CGPA)** [cite: 4]
 - [cite_start]🌐 **Web3 Expert:** Scaled Forkast from 1,000 to **120,000+ users** and drove **$50k+ daily volume** [cite: 9, 12]
 - [cite_start]💡 **Token Architect:** Led a **$3M seed raise** (part of $12M round) and launched multiple NFT/Token projects generating **$500K+ in sales** [cite: 11, 19]
-- [cite_start]📊 **Strategic Growth:** Expert in **CLOB matching engines**, AMM strategies, and CFTC licensing protocols 
-- [cite_start]🔍 **AI Integration:** Leveraging **LLM-based agents** for UGC and delivering AI training for corporate leadership [cite: 15, 21]
+- [cite_start]🔍 **AI Integration:** Leveraging **LLM-based agents** to streamline UGC and delivering AI training for corporate leadership [cite: 15, 21]
 - 📫 **Email:** sachin11061997@gmail.com | [cite_start]📱 **WhatsApp:** [+91 7057480940](https://wa.me/917057480940) [cite: 1, 2]
 
-<h2 align="left" id="sachinyadav-tech">Core Stack & Expertise</h2>
+---
 
-> Bridging the gap between decentralized protocols and intelligent automation.
+<h2 align="left" id="sachin-specialization">🎯 Domain Specialization</h2>
+
+### 📈 Prediction Markets & Liquidity Engineering
+Building the infrastructure for the "Information Economy" requires a mix of high-frequency trading logic and decentralized trust.
+- [cite_start]**CLOB & Matching Engines:** Built and optimized a fast Central Limit Order Book (CLOB) matching engine[cite: 9].
+- [cite_start]**Market Operations:** Directing daily operations for 1,000+ active markets, overseeing order book health and ecosystem fund management[cite: 10].
+- [cite_start]**Market Making (AMM):** Expert in CLOB market making and Automated Market Maker (AMM) strategies[cite: 10].
+- [cite_start]**Regulatory Strategy:** Heading the CFTC license division, including security protocols and document preparation[cite: 11].
+
+### 🤖 AI-Agent Integration in Web3
+The future of Web3 is autonomous. I focus on integrating AI to automate operations and enhance product ecosystems.
+- [cite_start]**LLM-Based Agents:** Architecting LLM-based agents to streamline user-generated content (UGC) flows[cite: 21].
+- [cite_start]**Agentic AI Leadership:** Leading GenAI and Agentic AI curriculum development and corporate training programs[cite: 13, 16].
+- [cite_start]**Product Intelligence:** Drove product development using Mixpanel for KPI tracking and Agile sprints for rapid dApp rollouts[cite: 20, 22].
+
+---
+
+<h2 align="left" id="sachinyadav-tech">Core Stack</h2>
 
 <table>
   <tr>
@@ -43,21 +59,6 @@
     <td align="center" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="48" height="48" alt="Node.js" /><br>Node.js
     </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="48" height="48" alt="React" /><br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" width="48" height="48" alt="Go" /><br>GoLang
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="48" height="48" alt="Next.js" /><br>Next.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" width="48" height="48" alt="AWS" /><br>AWS
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -75,29 +76,15 @@
     <td align="center" width="96">
       <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="Hugging Face" /><br>HuggingFace
     </td>
-    <td align="center" width="96">
-       <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="48" height="48" alt="Pandas" /><br>Pandas
-    </td>
-    <td align="center" width="96">
-       <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="48" height="48" alt="NumPy" /><br>NumPy
-    </td>
-    <td align="center" width="96">
-       <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="48" height="48" alt="TS" /><br>TypeScript
-    </td>
-    <td align="center" width="96">
-       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="48" height="48" alt="MongoDB" /><br>MERN
-    </td>
-    <td align="center" width="96">
-       <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="48" height="48" alt="EKS" /><br>Cloud Native
-    </td>
   </tr>
 </table>
 
+---
+
 <h2 align="left" id="sachinyadav-projects">Featured Work</h2>
 
-- **Forkast.gg**: A prediction market specializing in esports economies. [cite_start]Built a fast CLOB engine, managing liquidity for 1000+ active markets. [cite: 31, 33, 10]
-- [cite_start]**UGC.fun**: Web3 trading platform for trending coins, leveraging content-driven pre-sale funds. [cite: 35, 36]
-- [cite_start]**Platter.fi / Zerion.io**: Scaled dApps to a 5M+ user base with $2M+ in revenue. [cite: 24]
+- **Forkast.gg**: Prediction market platform for esports (CLOB). [cite_start]Generated $60k+ USD daily volume on Arbitrum[cite: 31, 33].
+- [cite_start]**UGC.fun**: Web3 trading platform for trending coins that generates "Content = Money" via pre-sale funds[cite: 35, 36].
+- [cite_start]**Platter.fi & Zerion.io**: Built and maintained Web3 dApps with a 5M+ user base and $2M+ revenue[cite: 24].
 
----
 🚀 **Let's build the future of Blockchain & AI together!** 🌍
