@@ -16,7 +16,7 @@
 - 🚀 **Currently Product Manager @ Forkast (New York, USA - Remote)**
 - 🎓 **Academic Lead:** Heading the AI Department at **DY-PATIL B-SCHOOL**, Pune
 - 🎯 **GMAT 100%ile | CAT 98.7%ile | B.Tech CS (9.89 CGPA)**
-- 🌐 **Web3 Expert:** Scaled Forkast from 1,000 to **120,000+ users** and drove **$50k+ daily volume**
+- 🌐 **Web3 Expert:** Scaled Forkast from 1,000 to **20,000+ users** and drove **$50k+ daily volume**
 - 💡 **Token Architect:** Led a **$3M seed raise** (part of $12M round) and launched Token projects generating **$500K+ in sales**
 - 🔍 **AI Integration:** Leveraging **LLM-based agents** to streamline UGC and delivering AI training for corporate leadership
 - 📫 **Email:** sachin11061997@gmail.com | 📱 **WhatsApp:** [+91 7057480940](https://wa.me/917057480940)
